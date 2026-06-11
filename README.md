@@ -1,6 +1,6 @@
 # Publisher Subscriber in CPP and Python
 ```
-Implementation of  simple pulisher and subscriber nodes in both cpp and python.
+Implementation of simple pulisher and subscriber nodes in both cpp and python.
 ```
 # ROS2 and Serial Communication using PySerial
 
