@@ -8,6 +8,8 @@ Implementation of simple pulisher and subscriber nodes in both cpp and python.
 * DistanceSensor.py and Decision_Node.py are the two nodes created to integrate ultrasonic sensor and control motor.
 
 # Video
+Watch the full video. [🎥 Video](https://github.com/user-attachments/assets/67c4bbfc-33ac-4d9e-8bd9-040c29182210)
+
 <p align="center">
-  <img src="media/MPU6050.gif" width="700">
+  <img src="media/ros2 arduino.gif" width="500">
 </p>
